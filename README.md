@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Wilbert Sánchez
+#  Hi, I'm Wilbert Sánchez
 
 FullStack Developer specialized in building business systems (ERP, POS, inventory)
 
@@ -9,7 +9,7 @@ Passionate about creating real-world solutions for companies
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Frontend:**
 Angular, React, Vue, Tailwind CSS, TypeScript
@@ -28,9 +28,9 @@ Docker, AWS: Lambda, S3, EC2, REST APIs, Figma
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 💻 FullStack Developer — Dinero Inmediato S.A de C.V
+### FullStack Developer — Dinero Inmediato S.A de C.V
 
 * Worked on **5 large-scale ERP systems** tailored to business needs
 * Developed both **frontend and backend solutions**
@@ -39,7 +39,7 @@ Docker, AWS: Lambda, S3, EC2, REST APIs, Figma
 
 ---
 
-### 💻 Software Engineering Intern — DaCodes
+### Software Engineering Intern — DaCodes
 
 * 1 year of experience in software development
 * Participated in real-world projects and collaborative environments
@@ -47,7 +47,7 @@ Docker, AWS: Lambda, S3, EC2, REST APIs, Figma
 
 ---
 
-### 🚀 Freelance FullStack Developer — CCA Tizimín
+### Freelance FullStack Developer — CCA Tizimín
 
 * Built a **school management system** for a private institution
 * Developed with **React + TypeScript + Tailwind + Laravel + MySQL**
@@ -55,7 +55,7 @@ Docker, AWS: Lambda, S3, EC2, REST APIs, Figma
 
 ---
 
-## 🧠 What I Do Best
+## What I Do Best
 
 ✔ FullStack Web Development
 ✔ ERP & POS Systems
@@ -66,9 +66,9 @@ Docker, AWS: Lambda, S3, EC2, REST APIs, Figma
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🛒 Inventory & POS System
+### Inventory & POS System
 
 Full system for managing sales, inventory, and warehouse transfers
 
@@ -80,7 +80,7 @@ Full system for managing sales, inventory, and warehouse transfers
 
 ---
 
-### 🤖 Asistify (Smart Appointment Assistant)
+### Asistify (Smart Appointment Assistant)
 
 AI-powered appointment system with WhatsApp chatbot
 
@@ -92,14 +92,14 @@ AI-powered appointment system with WhatsApp chatbot
 
 ---
 
-## 🎓 Education
+## Education
 
 🎓 Bachelor's Degree in Computer Engineering
 Instituto Tecnológico Nacional de México — Campus Tizimín 
 
 ---
 
-## 🌍 Languages
+## Languages
 
 * Spanish: Native
 * English: Intermediate (B2) 
