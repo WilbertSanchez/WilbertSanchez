@@ -1,7 +1,7 @@
 
 #  Hi, I'm Wilbert Sánchez
 
-FullStack Developer specialized in building business systems (ERP, POS, inventory)
+Frontend Developer specialized in | Angular | TypeScript | React
 
 Passionate about creating real-world solutions for companies
 
