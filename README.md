@@ -125,4 +125,4 @@ Instituto Tecnológico Nacional de México — Campus Tizimín
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WilbertSanchez&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WilbertSanchez)](https://git.io/streak-stats)
