@@ -1,7 +1,7 @@
 
 #  Hi, I'm Wilbert Sánchez
 
-Frontend Developer specialized in | Angular | TypeScript | React
+Full Stack Developer specialized in | Angular | TypeScript | React and | Nest.js | Node.js | PSQL
 
 Passionate about creating real-world solutions for companies
 
