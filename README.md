@@ -12,7 +12,7 @@ Passionate about creating real-world solutions for companies
 ##  Tech Stack
 
 **Frontend:**
-Angular, React, Vue, Tailwind CSS, TypeScript
+Angular, React, Tailwind CSS, TypeScript
 
 **Backend:**
 Node.js, NestJS, Express, PHP, Laravel
