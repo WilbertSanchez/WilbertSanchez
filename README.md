@@ -20,9 +20,6 @@ Node.js, NestJS, Express, PHP, Laravel
 **Databases:**
 MySQL, SQL Server, PostgreSQL
 
-**AI Stack:** 
-Cloud, Gemini, Open AI
-
 **Other:**
 Docker, AWS: Lambda, S3, EC2, REST APIs, Figma
 
@@ -102,7 +99,7 @@ Instituto Tecnológico Nacional de México — Campus Tizimín
 ## Languages
 
 * Spanish: Native
-* English: Intermediate (B2) 
+* English: B2
 
 ---
 
@@ -118,7 +115,7 @@ Instituto Tecnológico Nacional de México — Campus Tizimín
 
 ## 📫 Contact
 
-📧 [sanchezwilbert923@gmail.com](mailto:sanchezwilbert923@gmail.com)
+📧 [sanchezwilbert923@gmail.com](mailto:wilbertsanchez.dev@gmail.com)
 
 ---
 
